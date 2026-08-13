@@ -50,19 +50,43 @@ Categorias femininas:
 Clone o repositório:
 
 ```bash
+git clone https://github.com/GustaLDK/catalogo-interativo-mobile.git
+```
+
+Entre na pasta:
+
+```bash
+cd catalogo-interativo-mobile
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
+
+```bash
+npx expo start
+```
 
 ## Screenshots
 
 ### Login
+
 ![Tela de Login](screenshots/login.jpg)
 
 ### Produtos Masculinos
+
 ![Produtos Masculinos](screenshots/masculino.jpg)
 
 ### Produtos Femininos
+
 ![Produtos Femininos](screenshots/feminino.jpg)
 
 ### Detalhes do Produto
+
 ![Detalhes do Produto](screenshots/detalhes.jpg)
 
 ## Autor
