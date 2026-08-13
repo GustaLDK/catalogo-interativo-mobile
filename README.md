@@ -74,4 +74,5 @@ Clone o repositório:
 Gustavo Gonçalves
 
 Projeto acadêmico desenvolvido para a disciplina de Mobile Development.
+
 git clone https://github.com/GustaLDK/catalogo-interativo-mobile.git
