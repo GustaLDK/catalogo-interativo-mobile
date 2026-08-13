@@ -50,4 +50,28 @@ Categorias femininas:
 Clone o repositório:
 
 ```bash
+
+## Screenshots
+
+### Login
+
+![Tela de Login](screenshots/login.jpg)
+
+### Produtos Masculinos
+
+![Produtos Masculinos](screenshots/masculino.jpg)
+
+### Produtos Femininos
+
+![Produtos Femininos](screenshots/feminino.jpg)
+
+### Detalhes do Produto
+
+![Detalhes do Produto](screenshots/detalhes.jpg)
+
+## Autor
+
+Gustavo Gonçalves
+
+Projeto acadêmico desenvolvido para a disciplina de Mobile Development.
 git clone https://github.com/GustaLDK/catalogo-interativo-mobile.git
